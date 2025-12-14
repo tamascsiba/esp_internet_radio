@@ -4,7 +4,7 @@
 
 This project is an **ESP32-based internet radio** that streams online radio stations over WiFi.
 Audio is played via an **I2S DAC (MAX98357A)**, station information is shown on an **SSD1306 OLED display**, stations can be changed using a **rotary encoder**, and volume is controlled with an **analog potentiometer**.
-The case id 3D printed.
+The case is 3D printed.
 
 ---
 
