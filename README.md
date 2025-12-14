@@ -1,6 +1,6 @@
 # 📻 ESP32 Internet Radio (OLED + Rotary Encoder + I2S)
 
-![ESP Internet Radio](IMG.jpg)
+![ESP Internet Radio](esp_radio/IMG.jpg)
 
 This project is an **ESP32-based internet radio** that streams online radio stations over WiFi.  
 Audio is played via an **I2S DAC (MAX98357A)**, station information is shown on an **SSD1306 OLED display**, stations can be changed using a **rotary encoder**, and volume is controlled with an **analog potentiometer**.
