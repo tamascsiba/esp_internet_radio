@@ -2,7 +2,7 @@
 
 ![ESP Internet Radio](esp_radio/IMG.jpg)
 
-This project is an **ESP32-based internet radio** that streams online radio stations over WiFi.  
+This project is an **ESP32-based internet radio** that streams online radio stations over WiFi.
 Audio is played via an **I2S DAC (MAX98357A)**, station information is shown on an **SSD1306 OLED display**, stations can be changed using a **rotary encoder**, and volume is controlled with an **analog potentiometer**.
 
 ---
@@ -87,7 +87,7 @@ Install the following libraries in **Arduino IDE**:
 
 - ESP32 Arduino Core
 - WiFi (built-in)
-- **Audio** library by *schreibfaul1*
+- **Audio** library by *schreibfaul1* - ONLY WORKS WITH ESP32-S3 !!!!!
 - **Adafruit GFX Library**
 - **Adafruit SSD1306**
 
